@@ -1,0 +1,10 @@
+Source: i40e-dkms
+Section: non-free/kernel
+Priority: optional
+Maintainer: Vincent Bernat <bernat@debian.org>
+Build-Depends: debhelper (>= 9), dkms
+
+Package: i40e-dkms
+Architecture: all
+Depends: ${misc:Depends}
+Description: DKMS source for the Intel i40e network driver

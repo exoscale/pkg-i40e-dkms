@@ -1,0 +1,5 @@
+i40e-dkms (2.4.3-0~xenial0+exo1) xenial; urgency=medium
+
+  * Initial package.
+
+ -- Vincent Bernat <bernat@debian.org>  Tue, 27 Feb 2018 17:20:58 +0100
