@@ -1,3 +1,9 @@
+i40e-dkms (2.4.10-0~xenial0+exo1) xenial; urgency=medium
+
+  * New upstream release.
+
+ -- Vincent Bernat <bernat@debian.org>  Mon, 11 Jun 2018 11:41:33 +0200
+
 i40e-dkms (2.4.6-0~xenial0+exo1) xenial; urgency=medium
 
   * New upstream release.
